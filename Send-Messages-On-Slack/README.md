@@ -5,9 +5,9 @@ This spring boot application can be used to send a notification or messages on s
 
 ### Create Slack Webhook URL
 
-1. You will be require a slackWebhookURL, where you can send the notification/workspace.
+1. You will be require a slackWebhookURL, where you can send the notification/message.
 
-  - Please follow [create slack webhook URL documentation](https://api.slack.com/messaging/webhooks)
+  - Please refer [create slack webhook URL documentation](https://api.slack.com/messaging/webhooks)
  
 ### Send message on the created webhook URL
 
